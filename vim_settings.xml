@@ -3,7 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/match.pgsql" timestamp="1472839712433">
+      <file name="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/validation.pgsql" timestamp="1472841803222">
+        <mark key="[" line="31" column="10" />
+        <mark key="]" line="31" column="13" />
+        <mark key="^" line="31" column="13" />
+        <mark key="." line="31" column="13" />
+      </file>
+      <file name="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/match.pgsql" timestamp="1472841933891">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="68" column="41" />
         <mark key="]" line="68" column="41" />
@@ -18,10 +24,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>airep_match</text>
@@ -80,6 +86,7 @@
         <entry>airep_match</entry>
       </history-search>
       <history-cmd>
+        <entry>w</entry>
         <entry>w!</entry>
       </history-cmd>
     </history>
