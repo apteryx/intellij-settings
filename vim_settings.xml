@@ -1,0 +1,98 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/match.pgsql" timestamp="1472839712433">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="68" column="41" />
+        <mark key="]" line="68" column="41" />
+        <mark key="^" line="68" column="38" />
+        <mark key="." line="68" column="41" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="30" column="0" filename="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/match.pgsql" />
+      <jump line="10" column="36" filename="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/match.pgsql" />
+      <jump line="61" column="0" filename="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/match.pgsql" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>airep_match</text>
+      </register>
+      <register name="0" type="4">
+        <text>CREATE TABLE metar_speci_match_data (   id integer REFERENCES metar_speci,
+                                        coverageid integer,
+                                        dtg timestamp(0) with time zone,
+                                        time timestamp(0) with time zone,
+                                        elevation double precision,
+                                        value float,
+                                        FOREIGN KEY (coverageid, &quot;time&quot;, elevation, dtg) REFERENCES isisdimension,
+                                        PRIMARY KEY (id, coverageid, dtg, time, elevation));</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w!</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>airep_match</last-search>
+      <last-offset />
+      <last-pattern>airep_match</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>;</entry>
+        <entry>airep_match</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w!</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
