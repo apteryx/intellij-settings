@@ -3,9 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/validation.pgsql" timestamp="1472841803222">
-        <mark key="[" line="31" column="10" />
-        <mark key="]" line="31" column="13" />
+      <file name="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/validation.pgsql" timestamp="1473171493618">
+        <mark key="'" line="29" column="102" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="25" column="89" />
         <mark key="^" line="31" column="13" />
         <mark key="." line="31" column="13" />
       </file>
@@ -16,15 +17,26 @@
         <mark key="^" line="68" column="38" />
         <mark key="." line="68" column="41" />
       </file>
+      <file name="$USER_HOME$/VirtualMachines/metoc-server/code/diagnostics/match_diag.pgsql" timestamp="1473171487416">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="30" column="0" filename="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/match.pgsql" />
       <jump line="10" column="36" filename="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/match.pgsql" />
       <jump line="61" column="0" filename="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/match.pgsql" />
+      <jump line="12" column="25" filename="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/validation.pgsql" />
+      <jump line="15" column="18" filename="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/validation.pgsql" />
+      <jump line="13" column="20" filename="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/validation.pgsql" />
+      <jump line="14" column="18" filename="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/validation.pgsql" />
+      <jump line="29" column="102" filename="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/validation.pgsql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text encoding="base64">Q1JFQVRFIE1BVEVSSUFMSVpFRCBWSUVXIGFpcmVwX21hdGNoX2Fpcl90ZW1wIEFTClNFTEVDVCBESVNUSU5DVCBvLmlkLCBvLmFsdGl0dWRlIG9fZWxldmF0aW9uLCBvLmlzc3VldGltZSwgYWlyX3RlbXAgb2JzX3ZhbHVlLCBjb3ZlcmFnZWlkLCBkdGcsIHRpbWUsIG0uZWxldmF0aW9uLCB2YWx1ZSBtb2RlbF92YWx1ZQpGUk9NIGFpcmVwIG8gSk9JTiBhaXJlcF9tYXRjaF9kYXRhIG0gT04gby5pZCA9IG0uaWQKV0hFUkUgY292ZXJhZ2VpZCBJTiAoIFNFTEVDVCBjb3ZlcmFnZWlkIEZST00gaXNpc2NvdmVyYWdlIFdIRVJFIHBhcmFtZXRlciA9ICdhaXJfdGVtcCcpOwoKQ1JFQVRFIE1BVEVSSUFMSVpFRCBWSUVXIGJ1b3lvYnNlcnZhdGlvbl9tYXRjaF9haXJfdGVtcCBBUwpTRUxFQ1QgRElTVElOQ1Qgby5pZCwgby5wcmVzc3VyZSBvX2VsZXZhdGlvbiwgby5pc3N1ZXRpbWUsIGFpcl90ZW1wIG9ic192YWx1ZSwgY292ZXJhZ2VpZCwgZHRnLCB0aW1lLCBtLmVsZXZhdGlvbiwgdmFsdWUgbW9kZWxfdmFsdWUKRlJPTSBidW95b2JzZXJ2YXRpb24gbyBKT0lOIGJ1b3lvYnNlcnZhdGlvbl9tYXRjaF9kYXRhIG0gT04gby5pZCA9IG0uaWQKV0hFUkUgY292ZXJhZ2VpZCBJTiAoIFNFTEVDVCBjb3ZlcmFnZWlkIEZST00gaXNpc2NvdmVyYWdlIFdIRVJFIHBhcmFtZXRlciA9ICdhaXJfdGVtcCcpOwoKQ1JFQVRFIE1BVEVSSUFMSVpFRCBWSUVXIG1ldGFyX3NwZWNpX21hdGNoX2Fpcl90ZW1wIEFTClNFTEVDVCBESVNUSU5DVCBvLmlkLCBvLnByZXNzdXJlIG9fZWxldmF0aW9uLCBvLmlzc3VldGltZSwgYWlyX3RlbXAgb2JzX3ZhbHVlLCBjb3ZlcmFnZWlkLCBkdGcsIHRpbWUsIG0uZWxldmF0aW9uLCB2YWx1ZSBtb2RlbF92YWx1ZQpGUk9NIG1ldGFyX3NwZWNpIG8gSk9JTiBtZXRhcl9zcGVjaV9tYXRjaF9kYXRhIG0gT04gby5pZCA9IG0uaWQKV0hFUkUgY292ZXJhZ2VpZCBJTiAoIFNFTEVDVCBjb3ZlcmFnZWlkIEZST00gaXNpc2NvdmVyYWdlIFdIRVJFIHBhcmFtZXRlciA9ICdhaXJfdGVtcCcpIDsK</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -33,14 +45,7 @@
         <text>airep_match</text>
       </register>
       <register name="0" type="4">
-        <text>CREATE TABLE metar_speci_match_data (   id integer REFERENCES metar_speci,
-                                        coverageid integer,
-                                        dtg timestamp(0) with time zone,
-                                        time timestamp(0) with time zone,
-                                        elevation double precision,
-                                        value float,
-                                        FOREIGN KEY (coverageid, &quot;time&quot;, elevation, dtg) REFERENCES isisdimension,
-                                        PRIMARY KEY (id, coverageid, dtg, time, elevation));</text>
+        <text encoding="base64">Q1JFQVRFIE1BVEVSSUFMSVpFRCBWSUVXIGFpcmVwX21hdGNoX2Fpcl90ZW1wIEFTClNFTEVDVCBESVNUSU5DVCBvLmlkLCBvLmFsdGl0dWRlIG9fZWxldmF0aW9uLCBvLmlzc3VldGltZSwgYWlyX3RlbXAgb2JzX3ZhbHVlLCBjb3ZlcmFnZWlkLCBkdGcsIHRpbWUsIG0uZWxldmF0aW9uLCB2YWx1ZSBtb2RlbF92YWx1ZQpGUk9NIGFpcmVwIG8gSk9JTiBhaXJlcF9tYXRjaF9kYXRhIG0gT04gby5pZCA9IG0uaWQKV0hFUkUgY292ZXJhZ2VpZCBJTiAoIFNFTEVDVCBjb3ZlcmFnZWlkIEZST00gaXNpc2NvdmVyYWdlIFdIRVJFIHBhcmFtZXRlciA9ICdhaXJfdGVtcCcpOwoKQ1JFQVRFIE1BVEVSSUFMSVpFRCBWSUVXIGJ1b3lvYnNlcnZhdGlvbl9tYXRjaF9haXJfdGVtcCBBUwpTRUxFQ1QgRElTVElOQ1Qgby5pZCwgby5wcmVzc3VyZSBvX2VsZXZhdGlvbiwgby5pc3N1ZXRpbWUsIGFpcl90ZW1wIG9ic192YWx1ZSwgY292ZXJhZ2VpZCwgZHRnLCB0aW1lLCBtLmVsZXZhdGlvbiwgdmFsdWUgbW9kZWxfdmFsdWUKRlJPTSBidW95b2JzZXJ2YXRpb24gbyBKT0lOIGJ1b3lvYnNlcnZhdGlvbl9tYXRjaF9kYXRhIG0gT04gby5pZCA9IG0uaWQKV0hFUkUgY292ZXJhZ2VpZCBJTiAoIFNFTEVDVCBjb3ZlcmFnZWlkIEZST00gaXNpc2NvdmVyYWdlIFdIRVJFIHBhcmFtZXRlciA9ICdhaXJfdGVtcCcpOwoKQ1JFQVRFIE1BVEVSSUFMSVpFRCBWSUVXIG1ldGFyX3NwZWNpX21hdGNoX2Fpcl90ZW1wIEFTClNFTEVDVCBESVNUSU5DVCBvLmlkLCBvLnByZXNzdXJlIG9fZWxldmF0aW9uLCBvLmlzc3VldGltZSwgYWlyX3RlbXAgb2JzX3ZhbHVlLCBjb3ZlcmFnZWlkLCBkdGcsIHRpbWUsIG0uZWxldmF0aW9uLCB2YWx1ZSBtb2RlbF92YWx1ZQpGUk9NIG1ldGFyX3NwZWNpIG8gSk9JTiBtZXRhcl9zcGVjaV9tYXRjaF9kYXRhIG0gT04gby5pZCA9IG0uaWQKV0hFUkUgY292ZXJhZ2VpZCBJTiAoIFNFTEVDVCBjb3ZlcmFnZWlkIEZST00gaXNpc2NvdmVyYWdlIFdIRVJFIHBhcmFtZXRlciA9ICdhaXJfdGVtcCcpIDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -89,6 +94,8 @@
         <entry>w</entry>
         <entry>w!</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
