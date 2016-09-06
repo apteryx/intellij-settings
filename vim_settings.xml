@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/VirtualMachines/metoc-server/code/data_persistence_engine/sql/validation.pgsql" timestamp="1473171493618">
@@ -17,11 +17,11 @@
         <mark key="^" line="68" column="38" />
         <mark key="." line="68" column="41" />
       </file>
-      <file name="$USER_HOME$/VirtualMachines/metoc-server/code/diagnostics/match_diag.pgsql" timestamp="1473171487416">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/VirtualMachines/metoc-server/code/diagnostics/match_diag.pgsql" timestamp="1473172495755">
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="12" column="56" />
+        <mark key="^" line="12" column="56" />
+        <mark key="." line="12" column="56" />
       </file>
     </filemarks>
     <jumps>
@@ -92,6 +92,7 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>W!</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
