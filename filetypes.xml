@@ -6,9 +6,6 @@
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <mapping ext="pgsql" type="SQL" />
-      <mapping pattern="Vagrantfile" type="textmate" />
-      <mapping pattern="Vagrant" type="textmate" />
-      <mapping ext="rb" type="textmate" />
     </extensionMap>
   </component>
 </application>
